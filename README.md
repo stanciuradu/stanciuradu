@@ -1,6 +1,6 @@
 # How to reach me
 <a href='https://www.facebook.com/'>
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Facebook_icon.svg/768px-Facebook_icon.svg.png' width='auto' height='50px' />
+    <img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg' width='auto' height='50px' />
 </a>
 
 <a href='https://www.instagram.com/radustanciu841/'>
