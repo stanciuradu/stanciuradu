@@ -8,7 +8,9 @@ I am a person passionate about technology and full of enthusiasm. I am very conc
 <a href='https://www.instagram.com/radustanciu841/'>
     <img src='https://workingwithdog.com/wp-content/uploads/2016/05/new_instagram_logo-1024x1024.jpg' width='auto' height='50px' />
 </a>
+
 # Languages and Tools
+    
     <img src='https://ih1.redbubble.net/image.1470587088.2816/st,small,507x507-pad,600x600,f8f8f8.jpg' width='auto' height='50px' />
     <img src='https://rapidapi.com/blog/wp-content/uploads/2018/06/logo-2582748_640.png' width='auto' height='50px' />
     <img src='https://www.lambdatest.com/blog/wp-content/uploads/2018/07/CSS3.jpg' width='auto' height='50px' />
