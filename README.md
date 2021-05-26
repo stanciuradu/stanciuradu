@@ -31,3 +31,6 @@ I am a person passionate about technology and full of enthusiasm. I am very conc
 <a href='/'>    
     <img src='https://repository-images.githubusercontent.com/19872456/05dca500-f010-11e9-9588-a96554294e4e' width='auto' height='50px' />
 </a>
+<a href='/'>    
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png' width='auto' height='50px' />
+</a>
