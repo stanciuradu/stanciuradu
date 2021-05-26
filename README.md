@@ -1,3 +1,5 @@
+# About me
+I am a person passionate about technology and full of enthusiasm. I am very concerned about the web area and I like to practice my new skills based on the technologies that have appeared in this area.
 # How to reach me
 <a href='https://www.facebook.com/'>
     <img src='https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg' width='auto' height='50px' />
